@@ -50,7 +50,7 @@ Click preview button.
 # Navigation
 
 - Use outline
-- Use breakcrube
+- Use breadcrube
 - Hover
 - Peek definition
 
