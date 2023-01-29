@@ -72,7 +72,7 @@ The best part about the lib.dom.d.ts type definitions is that they are reflectiv
 
 Sources:
 
-- [ECMA-262 Standard][label2]
+- [ECMA-262 Standard][ecma-262]
 - [Introduction to the DOM][label3]
 
 ## Comparison table
@@ -111,5 +111,8 @@ journey
 
 ## Let do a project
 
-[label2]: http://www.ecma-international.org/ecma-262/10.0/index.html
+1. Initial project
+2. Do some modifications
+
+[ecma-262]: http://www.ecma-international.org/ecma-262/10.0/index.html
 [label3]: https://developer.mozilla.org/docs/Web/API/Document_Object_Model/Introduction
