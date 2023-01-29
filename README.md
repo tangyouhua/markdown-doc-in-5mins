@@ -14,6 +14,7 @@
   - [Link to other documents](#link-to-other-documents)
   - [How about draw diagrams](#how-about-draw-diagrams)
   - [Let do a project](#let-do-a-project)
+  - [Todo list](#todo-list)
 
 > An exploration into the HTMLElement type
 
@@ -51,6 +52,10 @@ After compiling and running the index.html page, the resulting HTML will be:
 
 ## The Document Interface
 
+$$
+x = {-b \pm \sqrt{b^2-4ac} \over 2a}
+$$
+
 ## Document.getElementById
 
 ## Document.createElement
@@ -75,6 +80,11 @@ Sources:
 - [ECMA-262 Standard][ecma-262]
 - [Introduction to the DOM][label3]
 
+This is the cat on your desk.
+
+![Cat](https://code.visualstudio.com/assets/docs/languages/Markdown/security-alert.png)
+
+
 ## Comparison table
 
 | Solution1 | Solution2 | Solution3 |
@@ -85,9 +95,9 @@ Sources:
 
 ## Link to other documents
 
-1. [Subtopic1](Subtopic1..md)
-2. [Subtopic2](Subtopic2.md)
-   - [Subsection](Subtopic2.md#this-is-subtopic2)
+1. [Subtopic1](topics/Subtopic1.md)
+2. [Subtopic2](topics/Subtopic2.md)
+   - [Subsection](topics/Subtopic2.md#this-is-subtopic2)
 
 ## How about draw diagrams
 
@@ -113,6 +123,14 @@ journey
 
 1. Initial project
 2. Do some modifications
+
+## Todo list
+
+- [x] first item
+- [ ] second item
+- [ ] third item
+
+Happy new year
 
 [ecma-262]: http://www.ecma-international.org/ecma-262/10.0/index.html
 [label3]: https://developer.mozilla.org/docs/Web/API/Document_Object_Model/Introduction
